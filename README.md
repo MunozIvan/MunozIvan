@@ -6,6 +6,8 @@ In the past, I pursued a career in Front End Development, as I am fascinated by 
 
 In this field, staying up-to-date with emerging technologies to streamline tasks is essential, which is why I am enthusiastic about learning them to become a more well-rounded developer.
 
+Some technologies I normally use are: HTML - CSS - JavaScript - Bootstrap - React - Redux - Node.Js - Express - PostgreSQL - Sequelize -  
+
 <!--
 **MunozIvan/MunozIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
