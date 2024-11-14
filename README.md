@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-I am Iván Muñoz Gomez, a passionate Full Stack Developer with a strong Front End background.
-
-In the past, I pursued a career in Front End Development, as I am fascinated by creating interactive experiences that captivate users. However, my ambition to cover all aspects of web development led me to broaden my knowledge and skills towards Full Stack Development.
-
-In this field, staying up-to-date with emerging technologies to streamline tasks is essential, which is why I am enthusiastic about learning them to become a more well-rounded developer.
-
-Some technologies I normally use are: HTML - CSS - JavaScript - Bootstrap - React - Redux - Node.Js - Express - PostgreSQL - Sequelize -  
+I am Iván Muñoz Gomez, a passionate Full Stack Developer with a strong Back End background.
 
 <!--
 **MunozIvan/MunozIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
