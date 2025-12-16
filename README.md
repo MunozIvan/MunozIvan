@@ -37,7 +37,7 @@ I am **Iván Muñoz Gomez**, a **Backend Engineer**.
 
 * GitHub: `github.com/MunozIvan`
 * LinkedIn: `linkedin.com/in/ivanmg-f-s-developer`
-* Portfolio: `portfolio-v3-two-nu.vercel.app/)`
+* Portfolio: `portfolio-v3-two-nu.vercel.app/`
 
 ---
 
