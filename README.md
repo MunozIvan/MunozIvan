@@ -30,6 +30,7 @@ I am **Iván Muñoz Gomez**, a **Backend Engineer**.
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
 </p>
 
 ## 📫 Connect With Me
