@@ -4,7 +4,7 @@ I am **Iván Muñoz Gomez**, a **Backend Engineer**.
 
 ## 🚀 About Me
 
-- 4+ years learning and exploring the world of programming  
+- 5+ years learning and exploring the world of programming  
 - 2+ years of experience working as a Backend Engineer  
 - Always focused on learning new ways to improve my skills and build better software
 
