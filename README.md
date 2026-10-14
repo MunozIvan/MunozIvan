@@ -4,10 +4,11 @@ I am **Iván Muñoz Gomez**, a **Backend Engineer**.
 
 ## 🚀 About Me
 
-- 6+ years learning and exploring the world of programming  
-- 3+ years of experience working as a Backend Engineer  
-- Always focused on learning new ways to improve my skills and build better software
-
+- 6+ years learning and exploring the world of programming
+- 3+ years of experience working as a Backend Engineer
+- Experienced in building backend services, REST APIs, and database-driven applications
+- Leveraging AI tools to improve development workflows, code quality, and problem-solving
+- Always focused on learning new technologies and building reliable, scalable software
 
 ## 🛠️ Tech Stack
 
@@ -33,10 +34,19 @@ I am **Iván Muñoz Gomez**, a **Backend Engineer**.
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
 </p>
 
+### AI & Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" />
+</p>
+
+
 ## 📫 Connect With Me
 
-* [LinkedIn](https://linkedin.com/in/ivanmg-f-s-developer)
-* [Portfolio](https://portfolio-v4-nu.vercel.app/)
+- [LinkedIn](https://linkedin.com/in/ivanmg-f-s-developer)
+- [Portfolio](https://portfolio-v4-nu.vercel.app/)
 
 ---
 
