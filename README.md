@@ -8,7 +8,6 @@ I am **Iván Muñoz Gomez**, a **Backend Engineer**.
 - 3+ years of experience working as a Backend Engineer
 - Experienced in building backend services, REST APIs, and database-driven applications
 - Leveraging AI tools to improve development workflows, code quality, and problem-solving
-- Always focused on learning new technologies and building reliable, scalable software
 
 ## 🛠️ Tech Stack
 
