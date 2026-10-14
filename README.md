@@ -37,10 +37,10 @@ I am **Iván Muñoz Gomez**, a **Backend Engineer**.
 
 <p>
   <img src="https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCode-000000?logo=opencode&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" />
 </p>
-
 
 ## 📫 Connect With Me
 
