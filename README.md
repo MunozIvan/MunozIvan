@@ -33,6 +33,12 @@ I am **Iván Muñoz Gomez**, a **Backend Engineer**.
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
 </p>
 
+### DevOps & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+</p>
+
 ### AI & Development Tools
 
 <p>
